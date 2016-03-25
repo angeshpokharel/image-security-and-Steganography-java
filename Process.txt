@@ -1,0 +1,18 @@
+1.Open Text file
+2.converting text into cipher text
+3.writing the key in key1.txt file
+
+
+
+Decryption
+
+dividing 64 bit cypher block into four 16 bit registers
+
+1.Open Encrypted Image
+2.Read Unsigned Bytes
+3.init241
+4.Setting Text to Text box
+
+
+
+

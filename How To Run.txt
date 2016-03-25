@@ -1,0 +1,21 @@
+Hi , good wishes from Angesh.
+
+              This project contain only one program that is steg.java, which is
+carrying all the tasks in our project. After run this code, it will get a
+window, like u have seen in the media file. 
+
+
+
+             In this project our original information will be encrypted in a bit
+map file have the extension .bmp. As we know , every BMP format file will have
+the dimension of 213 x 205 pixel format. Here we are storing our encrypted
+information in that particular Image pixels in the form of Binary digits, now
+we got another Image which is dipicted as the orginal Image , but it contains
+the encrypted information of our text file. At the time of encrypting and
+decryption  we have to give the 16 digit key for security purpose. this
+security code is stored in the key1.txt file in our project. 
+
+
+
+       Once U go through the project now U can understand every thing , If U
+have doubts regarding this contact me at angeshpokharel@gmail.com
